@@ -56,7 +56,7 @@ android {
             applicationId "ru.madbrains.smartyard"
         }
         lanta {
-            applicationId "ru.lanta.net.smartyard"
+            applicationId "ru.voxlink.linphone"
         }
     }
 
