@@ -8,5 +8,6 @@
     <domain-config cleartextTrafficPermitted="true">
         <domain includeSubdomains="true">openptmap.org</domain>
         <domain includeSubdomains="true">172.24.144.1</domain>
+        <domain includeSubdomains="true">interadmin-dev.eu-central-1.elasticbeanstalk.com</domain>
     </domain-config>
 </network-security-config>

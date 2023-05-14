@@ -46,7 +46,9 @@ import java.util.concurrent.TimeUnit
 object DataModule {
 
 //    var URL = "https://dm.lanta.me:543"
-    var URL = "http://172.24.144.1:5000"
+//    var URL = "http://172.24.144.1:5000"
+//    var URL = "http://172.24.144.1:8777"
+    var URL = "http://interadmin-dev.eu-central-1.elasticbeanstalk.com"
     private var BASE_URL = "$URL/"
 
     val sberApiUserName = "your-user-name"
