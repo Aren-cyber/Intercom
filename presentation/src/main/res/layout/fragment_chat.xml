@@ -8,14 +8,25 @@
     android:id="@+id/wrapChatView"
     android:background="#F3F4FA">
 
+<!--    <com.sofit.onlinechatsdk.ChatView-->
+<!--        android:id="@+id/chatView"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_marginBottom="10dp"-->
+<!--        app:id="3beb2614f4573475b18bd25deb77f6e9"-->
+<!--        app:domain="lanta-net.ru"-->
+<!--        app:autoLoad="false"-->
+<!--    />-->
+
+<!--    пока отключим старый чат, надо свой делать -->
     <com.sofit.onlinechatsdk.ChatView
         android:id="@+id/chatView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginBottom="10dp"
-        app:id="3beb2614f4573475b18bd25deb77f6e9"
+        app:id="3beb2614f4573475b18bd25deb77f6e8"
         app:domain="lanta-net.ru"
         app:autoLoad="false"
-    />
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
